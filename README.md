@@ -12,7 +12,6 @@ Java 11 or above I used open JDK 17.0.2
 
  add a Maven JSON dependency (https://mvnrepository.com/artifact/org.json/json/20211205)
  
-to test the unit tests you will need the dependency for JUnit 5.8.1
 
 **Installation instructions**
 
